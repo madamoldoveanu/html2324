@@ -1,0 +1,37 @@
+div {
+    width: 45%;
+    float: left;
+    border: 2px solid #000000;
+    padding: 25px;
+    margin: 20px;
+}
+
+#stanga {
+    background-color: rgb(255, 240, 241);
+}
+
+#dreapta {
+    background-color: rgb(112, 112, 228);
+}
+
+.p1{
+color: red;
+}
+.p2{
+color: blue;
+}
+.p3{
+    font-size: 50px;
+}
+#idp5{
+    color: green;
+}
+#bottom{
+    width: 100%;
+    }
+    #bottom > p{
+        color: red;
+    }
+    #bottom article~p{
+        color: yellowgreen;
+    }
