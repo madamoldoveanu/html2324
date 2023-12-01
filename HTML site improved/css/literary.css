@@ -1,0 +1,39 @@
+html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 18px;
+    background-color: bisque;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: justify;
+    color: blue;
+}
+
+table {
+    color: blueviolet;
+    font-style: oblique;
+    width: 80%;
+    margin: 0 auto;
+}
+
+th {
+    padding: 18px;
+}
+
+td {
+    padding: 12px;
+}
+
+th,
+td {
+    border: solid 1px #e21818;
+}
+
+tr {
+    background-color: #e7d5d5;
+}
+
+
+

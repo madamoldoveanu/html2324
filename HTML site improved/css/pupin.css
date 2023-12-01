@@ -1,0 +1,14 @@
+html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 18px;
+    background-color: bisque;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: justify;
+    color: blue;
+}
+
+
