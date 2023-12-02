@@ -41,3 +41,11 @@ body {
     border: 1px;
     text-align: justify;
 }
+
+aside.column {
+    flex: 1;
+}
+
+main.column {
+    flex: 3;
+}
